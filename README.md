@@ -1,7 +1,7 @@
 # APPPEDIA
 ## Universidad Técnica Particular de Loja.
 ## Knowledge-based systems  
-### ProJect Title : APPPEDIA -> Mobile application that consults entities and does a small NLP process detecting sentences in English and Spanish. remove stopwords and search for entities in DBPedia SPOTLIGHT.
+### ProJect Title : APPPEDIA -> Mobile application that get entities and does a small NLP process detecting sentences in English and Spanish. remove stopwords and search for entities in DBPedia SPOTLIGHT.
 This app is connected to another repository "FlaskSpaicyAPI" in my profile
 #Preview:
 
